@@ -1,7 +1,7 @@
 
 # About me
 
-I'm vinayak sonawane mechanical engineer passionate about data science and machine learning. My journey into this field is driven by curiosity and a desire to leverage data for impactful solutions. I'm committed to mastering the intricacies of data manipulation, model building, and deployment to solve real-world problems.
+I'm vinayak sonawane mechanical engineer & passionate about data science and machine learning. My journey into this field is driven by curiosity and a desire to leverage data for impactful solutions. I'm committed to mastering the intricacies of data manipulation, model building, and deployment to solve real-world problems.
 
 What I’m Working On:
 
