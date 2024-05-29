@@ -1,4 +1,6 @@
-vinayak bot
+vinayak bot 
+
+click on right hand corner 🤖 icon                                                  ↘️↘️↘️
 
 <script
   src="https://www.fireaw.ai/widget/main.js"
