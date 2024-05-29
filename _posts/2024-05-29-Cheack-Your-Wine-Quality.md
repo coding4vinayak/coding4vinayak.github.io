@@ -28,4 +28,4 @@ Deployed predictive tool for assessing wine quality.
 Conclusion:
 This project aims to leverage data science techniques to develop a predictive model for assessing wine quality based on its chemical composition. By automating the quality assessment process, winemakers can make informed decisions to improve their products, while enthusiasts can gain insights into the factors influencing wine quality.
 
-[Test Demo}(https://wine-quality-tq9s.onrender.com)
+[Test Demo](https://wine-quality-tq9s.onrender.com)
