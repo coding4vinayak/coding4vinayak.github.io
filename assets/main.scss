@@ -1,62 +1,61 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-
+// Import theme
 @import "{{ site.theme }}";
 
+// Styles for post images
 .post img {
-        display: block;
-        border:1px solid #021a40;
-        vertical-align: top;
-        margin-left: auto;
-        margin-right: auto;
+    display: block;
+    border: 1px solid #021a40;
+    border-radius: 5px; // Add border radius for smoother edges
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); // Add shadow for depth
+    max-width: 100%; // Ensure images don't overflow their containers
 }
 
+// Styles for post figure captions
 .post figcaption {
-  text-align: center;
-  font-size: .8rem;
-  font-style: italic;
-  color: light-grey;
+    text-align: center;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #555; // Darken caption color for better readability
 }
 
-.language-python { border-left: 1px solid lightcoral; }
+// Styles for code blocks
+.language-python {
+    border-left: 1px solid lightcoral;
+}
 
 .language-python + .language-plaintext {
-        border-left: 1px solid grey;
-        margin-left: 1rem !important;
+    border-left: 1px solid grey;
+    margin-left: 1rem !important;
 }
-.language-python + .language-plaintext code { background-color: white !important; }
-.language-python + .language-plaintext pre  { background-color: white !important; }
 
-// for Jupyter Notebook HTML Code Cells from https://www.fast.ai/public/css/hyde.css
+.language-python + .language-plaintext code,
+.language-python + .language-plaintext pre {
+    background-color: #f7f7f7 !important; // Lighter background color for code blocks
+    border-radius: 5px; // Add border radius for smoother edges
+    padding: 1rem; // Add padding for readability
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); // Add shadow for depth
+}
 
-.input_area pre, .input_area div {
-        margin-bottom:0.1rem !important;
-        margin-top:0.1rem !important;
-        padding-bottom:0 !important;
-        padding-top:0 !important;
+// Styles for Jupyter Notebook HTML Code Cells
+.input_area pre,
+.input_area div,
+.output_area pre,
+.output_area div {
+    margin: 0.5rem 0 !important; // Increase margin for better separation
+    padding: 0.5rem !important; // Add padding for readability
 }
-.output_area pre, .output_area div {
-        margin-bottom:0.1rem !important;
-        margin-top:0.1rem !important;
-        padding-bottom:0 !important;
-        padding-top:0 !important;
-        background-color: white !important;
-}
-.input_area pre {
-        border-left: 1px solid lightcoral;
-}
-.output_area pre {
-        border-left: 1px solid grey;
-        margin-left: 1rem !important;
-}
+
+// Styles for code cell container
 .codecell {
-        border-right: 2px solid lightgrey;
-        margin-bottom:1rem !important;
-        margin-top:1rem !important;
-        padding-bottom:0 !important;
-        padding-top:0 !important;
+    border: 1px solid #ddd; // Add border for separation
+    border-radius: 5px; // Add border radius for smoother edges
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); // Add shadow for depth
+    margin: 1rem 0 !important;
+    padding: 1rem !important;
+    background-color: #fff; // White background color
 }
 
-.codecell table { width: auto; }
+.codecell table {
+    width: 100%; // Make tables responsive
+}
 
