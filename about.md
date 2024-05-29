@@ -23,7 +23,9 @@ To contribute to innovative projects that make a difference.
 To build a robust portfolio showcasing diverse applications of machine learning.
 I'm excited to share my journey and projects with you. Stay tuned for updates and insights from my data science endeavors! 😍
 
-![IMG_20220604_134725_375 (2)-modified](https://github.com/coding4vinayak/coding4vinayak.github.io/assets/85548902/906f8546-5528-4279-be36-5c94460ef3f0
+
+![IMG_20220604_134725_375 (2)-modified](https://github.com/coding4vinayak/coding4vinayak.github.io/assets/85548902/76382ec4-21c7-49ae-966a-b1e3e822ed3b)
+
 
 welcome to connect with me 
 Email : coding4vinayak@gmail.com
