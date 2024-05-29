@@ -6,7 +6,7 @@ I'm vinayak sonawane mechanical engineer passionate about data science and machi
 What I’m Working On:
 
 📅 Data Analysis Projects:   Analyzing diverse datasets to uncover meaningful insights.
-🤖 Machine Learning Models:  Developing predictive models using algorithms like regression, classification, and clustering.
+🤖 Machine Learning Models:  Developing predictive models using algorithms like regression, classification, and clustering.  
 💫 Deep Learning: Exploring neural networks and advanced techniques for complex problem-solving.
 🆚 Visualization: Creating intuitive visualizations to communicate data stories effectively.
 🤝Collaboration: Engaging in collaborative projects and contributing to open-source communities.
@@ -24,6 +24,8 @@ To build a robust portfolio showcasing diverse applications of machine learning.
 I'm excited to share my journey and projects with you. Stay tuned for updates and insights from my data science endeavors! 😍
 
 welcome to connect with  me for anything 
+![IMG_20220604_134725_375 (2)-modified](https://github.com/coding4vinayak/coding4vinayak.github.io/assets/85548902/906f8546-5528-4279-be36-5c94460ef3f0)
+
 Email : coding4vinayak@gmail.com
 [LinkedIn](https://www.linkedin.com/in/vinayak-sonawane-274906278/)
 
