@@ -34,7 +34,7 @@ Email : coding4vinayak@gmail.com
  Contact Information
 - **website:**  [coding4vinayak](https://vinayakss.vercel.app)
 - **Email:** [coding4vinayak@gmail.com](mailto:coding4vinayak@gmail.com)
-- **GitHub:** [coding44vinayak](https://github.com/coding4vinayak)
+- **GitHub:** [coding4vinayak](https://github.com/coding4vinayak)
 
 
 
